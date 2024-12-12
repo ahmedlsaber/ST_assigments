@@ -58,14 +58,14 @@ This repository can serve as:
 
 ## File Structure
 ```
-├── src
-│   ├── brent_kung_adder.v       # 64-bit Brent-Kung Adder implementation
-│   ├── [other project files]
-├── testbench
-│   ├── TB_BrentKungAdder.v              # Testbench for Brent-Kung Adder
-│   ├── [other testbench files]
-├── docs
-│   ├── README.md                # Project documentation
+├── ST_assigments
+   ├── src
+      │   ├── brent_kung_adder.v       # 64-bit Brent-Kung Adder implementation
+      │   ├── [other project files]
+   ├── testbench
+      │   ├── TB_BrentKungAdder.v              # Testbench for Brent-Kung Adder
+      │   ├── [other testbench files]
+   │   ├── README.md                # Project documentation
 ```
 
 ## Technologies Used
