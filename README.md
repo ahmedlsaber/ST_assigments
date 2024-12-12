@@ -21,8 +21,8 @@ This repository includes multiple assignments completed during my internship at 
    - Modularization using parameterized components.
    - Optimized combinational logic for performance.
 
-2. Additional Projects:
-   - [Insert description of other projects, e.g., Multiplier Design, ALU Implementation, etc.]
+2. Future Projects:
+   -
 
 ## Features
 - Implementation of various digital design modules.
