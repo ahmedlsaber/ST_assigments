@@ -21,8 +21,15 @@ This repository includes multiple assignments completed during my internship at 
    - Modularization using parameterized components.
    - Optimized combinational logic for performance.
 
-2. Future Projects:
-   -
+2. **Generic Brent-Kung Adder**:
+   - Parameterized design to support variable bit-width.
+   - Dynamic stage calculation for scalability.
+   - Efficient implementation for adaptable digital design.
+
+3. **Next Projects**:
+   - .
+   - .
+
 
 ## Features
 - Implementation of various digital design modules.
@@ -45,7 +52,7 @@ To run any of the projects locally:
 
 3. Ensure you have a Verilog simulation tool installed (e.g., ModelSim, Vivado).
 
-4. Navigate to the relevant project folder and run the testbench:
+4. Navigate to the relevant project file and run the testbench:
    ```bash
    <simulator-command> <testbench-file>.v
    ```
@@ -58,14 +65,14 @@ This repository can serve as:
 
 ## File Structure
 ```
-├── ST_assigments
-   ├── src
-      │   ├── brent_kung_adder.v       # 64-bit Brent-Kung Adder implementation
-      │   ├── [other project files]
-   ├── testbench
-      │   ├── TB_BrentKungAdder.v              # Testbench for Brent-Kung Adder
-      │   ├── [other testbench files]
-   │   ├── README.md                # Project documentation
+├── src
+│   ├── brent_kung_adder.v       # 64-bit Brent-Kung Adder implementation
+│   ├── generic_brent_kung_adder.v # Generic Brent-Kung Adder implementation
+│   ├── [other project files]
+├── testbench
+│   ├── testbench.v              # Testbench for Brent-Kung Adder
+│   ├── [other testbench files]
+├── README.md                    # Project documentation
 ```
 
 ## Technologies Used
