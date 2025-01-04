@@ -42,12 +42,12 @@ To run any of the projects locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/ahmedlsaber/ST_assigments.git
    ```
 
 2. Open the project folder:
    ```bash
-   cd <repository-name>
+   cd ST_assigments
    ```
 
 3. Ensure you have a Verilog simulation tool installed (e.g., ModelSim, Vivado).
